@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋, I'm Yash
 
-<!--
-**gauryash/gauryash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+I'm a Software Developer who enjoys building projects and solving problems with code.
 
-Here are some ideas to get you started:
+🤖 I love learning about Artificial Intelligence and exploring new AI technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently learning:
+- AI Engineering
+- Machine Learning
+- Large Language Models (LLMs)
+- Full-Stack Development
+- 
+## 🌱 Current Goal
+Keep learning, keep building, and contribute to open source.
+
+## 📫 Connect with Me
+- GitHub: https://github.com/gauryash
+- LinkedIn: https://www.linkedin.com/in/gauryash/
+
+---
+⭐ *"Always learning something new about code and AI."*
