@@ -10,7 +10,7 @@ I'm a Software Developer who enjoys building projects and solving problems with 
 - Machine Learning
 - Large Language Models (LLMs)
 - Full-Stack Development
-- 
+  
 ## 🌱 Current Goal
 Keep learning, keep building, and contribute to open source.
 
