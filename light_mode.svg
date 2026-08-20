@@ -16,34 +16,17 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
-<text x="15" y="30" fill="#24292f" class="ascii">
-<tspan x="15" y="30">            ;;,, ,;,|g;~,,                      </tspan>
-<tspan x="15" y="50">         ,g@@@@@@l&amp;$$$@|,w$$@gy,            </tspan>
-<tspan x="15" y="70">        $@@@@@@@@@@$@@@@@@@@$$MW$k              </tspan>
-<tspan x="15" y="90">       $$@@@@@@B@@@@@@@@@@@@@$@$$g,$            </tspan>
-<tspan x="15" y="110">     g@llM**'''||%@@@@@$@@$@@@@@@@L$&amp;      </tspan>
-<tspan x="15" y="130">   @$&amp;$F         ''T%M$@@@@@@@@@@@$@$@     </tspan>
-<tspan x="15" y="150">  @@@@F              ']@@@@@@$$@$@@@@          </tspan>
-<tspan x="15" y="170">  @@@$L               |$@@@$$l$@@@@$F          </tspan>
-<tspan x="15" y="190"> ]@@@@L ,@@$@@@@L  ,l@$$$$$$$$$@@@@@           </tspan>
-<tspan x="15" y="210">  %$@@@$}',,gg@||@@@@l@g@ggg|l$&amp;$@@$       </tspan>
-<tspan x="15" y="230">  ]@@@@@'"*TTTTT'F  ]Wl|||''"'$]@@@@ </tspan>
-<tspan x="15" y="250">   $$@M$       ,#    ]gg,,,,,.r'$@$            </tspan>
-<tspan x="15" y="270">    &amp;$L        ' ,, ,,,'T''`    $$L        </tspan>
-<tspan x="15" y="290">     lL         T"||||!   `-    l"'  </tspan>
-<tspan x="15" y="310">     ' |        '||l||||"|L|  L `         </tspan>
-<tspan x="15" y="330">      ''   '|L++=*****""*"||` L|</tspan>
-<tspan x="15" y="350">        |           ,,      |||F               </tspan>
-<tspan x="15" y="370">        '         |||||||| ||l$                </tspan>
-<tspan x="15" y="390">          !                |l&amp;L            </tspan>
-<tspan x="15" y="410">           '!,       |||,||@M|L                </tspan>
-<tspan x="15" y="430">            ||l&amp;$@$$@$$$@$MT|||            </tspan>
-<tspan x="15" y="450">         |    |||lll$$llll|||||L               </tspan>
-<tspan x="15" y="470">    ,;y@        ||||||l||@|||||l               </tspan>
-<tspan x="15" y="490">,g$@$$$@         |||||||||||||||| $g,          </tspan>
-<tspan x="15" y="510">$$$$$$$$@    |    |||||||||||||| |$$@g         </tspan>
-</text>
-<text x="390" y="30" fill="#24292f">
+<g aria-label="Yash Gaur's GitHub avatar" fill="#7474d8" transform="translate(16 58) scale(0.86)">
+  <rect x="35" y="35" width="140" height="70"/>
+  <rect x="245" y="35" width="141" height="70"/>
+  <rect x="175" y="105" width="70" height="71"/>
+  <rect x="105" y="176" width="210" height="70"/>
+  <rect x="105" y="246" width="70" height="70"/>
+  <rect x="245" y="246" width="70" height="70"/>
+</g>
+<text x="195" y="405" text-anchor="middle" fill="#7474d8" font-size="26" font-weight="bold">YASH GAUR</text>
+<text x="195" y="435" text-anchor="middle" fill="#616e7f">@gauryash</text>
+<text x="195" y="475" text-anchor="middle" fill="#a5d6ff">AI • FULL-STACK • OPEN SOURCE</text><text x="390" y="30" fill="#24292f">
 <tspan x="390" y="30">gauryash@github</tspan> -———————————————————————————————————————————-—-
 <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Windows, Linux, Web</tspan>
 <tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">GitHub account age</tspan>
