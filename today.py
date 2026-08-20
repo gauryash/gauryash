@@ -309,10 +309,19 @@ def force_close_file(data, cache_comment):
 
 def stars_counter(data):
     """
-    Count total stars in repositories owned by me
+    Count total stars in repositories owned by me.
+
+    GitHub can return a null repository node for a repository that was deleted
+    or is no longer accessible to the token. Ignore those stale edges.
     """
     total_stars = 0
-    for node in data: total_stars += node['node']['stargazers']['totalCount']
+    for edge in data:
+        repository = edge.get('node')
+        if repository is None:
+            continue
+        stargazers = repository.get('stargazers')
+        if stargazers is not None:
+            total_stars += stargazers.get('totalCount', 0)
     return total_stars
 
 
